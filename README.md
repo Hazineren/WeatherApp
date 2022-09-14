@@ -1,7 +1,7 @@
 # WeatherApp
 
 Weather App is built with React Native using Geolocation on Maps, takes instant location as latitude and longitude parameters and converts it to location using OpenWeatherMap API service. Temperature information and special icon were displayed according to the relevant weather conditions. At the same time, the instant weather conditions of different countries were displayed to the user as the page was renewed with 'check to refresh'. The app background has been changed according to the weather in the user's location.<br><br>
-Technologies and structures used;<br><br>
+Technologies and structures used;<br>
 ~ State and Lifecycle<br>
 ~ Hooks<br>
 ~ Web API<br>
