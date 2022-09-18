@@ -7,7 +7,7 @@ Technologies and structures used;<br>
 ~ Web API<br>
 ~ Geolocation (Maps)<br>
 ******************
-Hava Durumu Uygulaması, Haritalarda Geolocation kullanılarak React Native ile oluşturulmuştur, enlem ve boylam parametreleri olarak anlık konumu alır ve OpenWeatherMap API hizmetini kullanarak konuma dönüştürür. İlgili hava koşullarına göre sıcaklık bilgisi ve özel ikon görüntülendi. Aynı zamanda sayfanın yenilenmesi kontrol edilerek yenilendiği takdirde farklı ülkelerin anlık hava durumu kullanıcıya gösterildi. Uygulama arka planı, kullanıcının bulunduğu yerdeki hava durumuna göre değiştirildi. Proje hakkında detaylı bilgiye Github hesabımdan ulaşabilirsiniz. İyi Çalışmalar..<br>
+Hava Durumu Uygulaması, Haritalarda Geolocation kullanılarak React Native ile oluşturulmuştur, enlem ve boylam parametreleri olarak anlık konumu alır ve OpenWeatherMap API hizmetini kullanarak konuma dönüştürür. İlgili hava koşullarına göre sıcaklık bilgisi ve özel ikon görüntülendi. Aynı zamanda sayfanın yenilenmesi kontrol edilerek yenilendiği takdirde farklı ülkelerin anlık hava durumu kullanıcıya gösterildi. Uygulama arka planı, kullanıcının bulunduğu yerdeki hava durumuna göre değiştirildi. <br>
 
 Kullanılan Yapılar;<br>
 ~ State and Lifecycle<br>
